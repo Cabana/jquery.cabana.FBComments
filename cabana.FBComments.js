@@ -85,7 +85,7 @@
         _destroy: function () {
 
             this.element.unbind();
-            this.element.unwrap().html('');
+            this.element.html('');
 
         },
 
