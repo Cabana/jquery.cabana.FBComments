@@ -27,6 +27,11 @@
         widgetEventPrefix: 'FBComments:',
 
         /*
+        *   set version
+        */
+        version: '0.1',
+
+        /*
         *   Setup widget (eg. element creation, apply theming, bind events etc.)
         */
         _create: function () {
